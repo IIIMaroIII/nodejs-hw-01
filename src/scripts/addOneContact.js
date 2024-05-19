@@ -1,7 +1,8 @@
 import { PATH_DB } from '../constants/contacts.js';
+import { generateContacts } from './generateContacts.js';
 
 export const addOneContact = async () => {
-  console.log('hello world');
+  await generateContacts(1);
 };
 
 await addOneContact();
