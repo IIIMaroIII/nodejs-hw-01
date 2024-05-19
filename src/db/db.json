@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Dr. Denise Lueilwitz",
+    "phone": "(481) 501-5940 x122",
+    "email": "Myrna81@hotmail.com",
+    "job": "Investor Paradigm Supervisor"
+  },
+  {
+    "name": "Felicia Durgan",
+    "phone": "(989) 947-1279",
+    "email": "Tommie_Schaefer90@yahoo.com",
+    "job": "Regional Intranet Officer"
+  },
+  {
+    "name": "Miss Sarah Reynolds",
+    "phone": "586.252.2627 x84320",
+    "email": "Kavon_McClure@yahoo.com",
+    "job": "Regional Mobility Technician"
+  },
+  {
+    "name": "Charlie Feest",
+    "phone": "977.539.7817 x9568",
+    "email": "Rocio.Gulgowski@gmail.com",
+    "job": "Lead Data Analyst"
+  },
+  {
+    "name": "Bernard Lebsack",
+    "phone": "381-748-9673 x802",
+    "email": "Savanna_Anderson@yahoo.com",
+    "job": "Product Program Strategist"
+  }
+]

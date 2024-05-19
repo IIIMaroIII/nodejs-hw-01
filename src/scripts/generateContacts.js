@@ -26,3 +26,4 @@ export const generateContacts = async (number) => {
     console.log(error);
   }
 };
+await generateContacts(5);
